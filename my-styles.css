@@ -4,6 +4,7 @@ body {
 	margin-top: 50px;
 }
 
-button {
+button,
+button:focus {
 	touch-action: manipulation;
 }
