@@ -1,6 +1,4 @@
-
 //set count
-
 if(localStorage.getItem("count") == null) {
 	localStorage.setItem("count", 0)
 }
